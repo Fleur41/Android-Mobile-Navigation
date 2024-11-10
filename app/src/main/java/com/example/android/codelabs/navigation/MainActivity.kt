@@ -138,6 +138,7 @@ class MainActivity : AppCompatActivity() {
     override fun onSupportNavigateUp(): Boolean {
 //        // Allows NavigationUI to support proper up navigation or the drawer layout
 //        // drawer menu, depending on the situation
+//        n cna mca cmmCX XC
         return findNavController(R.id.my_nav_host_fragment).navigateUp(appBarConfiguration)
     }
     // TODO END STEP 9.7
